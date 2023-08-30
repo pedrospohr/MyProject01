@@ -1,0 +1,94 @@
+body{
+
+    text-align: center;
+    font-family: arial;
+
+}
+
+.navigation{
+
+    background-color: #c4170c;
+    color:white;
+
+}
+
+
+
+
+/* Classe navigation formate o elemento h2 que está contido nessa classe 
+
+
+h2{ 
+
+    background-color:#b0140a;
+    
+    #ba170a;
+
+
+}   Por isso não queremos por h2 senão vai formatar todos os h2 do site,não quero formatar todos só da classe .navigation
+
+Só vai formatar o h2 que estão dentro da classe navigation
+
+*/
+
+.navigation h2{
+
+    background-color:#b0140a;
+    
+
+}
+
+/* 
+.titulo-artigo{
+
+    background-color: grey;
+}
+
+
+ */
+.titulo-artigo h1{
+
+
+    margin-left: 120px;
+    margin-left:120px;
+    
+
+    font-size:48px;
+    
+}
+
+
+
+.titulo-artigo h2{ 
+
+
+    margin-left: 140px;
+    margin-left:140px;
+    font-size:18px;
+    
+}
+
+
+
+.content{
+
+    background-color: grey;
+    width: 1000px;
+    margin: auto;
+
+}
+
+
+
+img{
+
+    height: 600px;
+}
+/* 
+
+.content h3{
+    font-size:30px;
+} */
+
+
+
